@@ -14,10 +14,10 @@
 
 | Category | Solved | Target | Status |
 | :--- | :---: | :---: | :---: |
-| 🟢 **Easy** | `120` | `150` | `80% Complete` |
-| 🟡 **Medium** | `240` | `300` | `80% Complete` |
-| 🔴 **Hard** | `65` | `100` | `65% Complete` |
-| **Total** | **425** | **550** | **77% Completed** |
+| 🟢 **Easy** | `55` | `150` | `40% Complete` |
+| 🟡 **Medium** | `53` | `300` | `40% Complete` |
+| 🔴 **Hard** | `11` | `100` | `20% Complete` |
+| **Total** | **117** | **550** | **40% Completed** |
 
 ---
 
