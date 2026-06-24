@@ -193,9 +193,14 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
