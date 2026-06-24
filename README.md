@@ -165,6 +165,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -189,4 +190,12 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0101-symmetric-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
