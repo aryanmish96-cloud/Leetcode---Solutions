@@ -225,4 +225,16 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0457-circular-array-loop) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0010-regular-expression-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
