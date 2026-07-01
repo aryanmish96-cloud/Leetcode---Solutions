@@ -228,6 +228,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0010-regular-expression-matching) |
 ## Dynamic Programming
 |  |
