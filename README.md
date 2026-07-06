@@ -220,6 +220,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0457-circular-array-loop](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0457-circular-array-loop) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Sorting
 |  |
 | ------- |
@@ -241,6 +242,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0010-regular-expression-matching) |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Recursion
 |  |
 | ------- |
