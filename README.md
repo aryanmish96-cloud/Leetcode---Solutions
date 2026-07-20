@@ -217,6 +217,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0027-remove-element](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0036-valid-sudoku) |
+| [0056-merge-intervals](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0134-gas-station) |
@@ -233,6 +234,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
