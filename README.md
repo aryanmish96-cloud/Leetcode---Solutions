@@ -230,6 +230,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0904-fruit-into-baskets](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0904-fruit-into-baskets) |
 | [0986-interval-list-intersections](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0986-interval-list-intersections) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3169-count-days-without-meetings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3169-count-days-without-meetings) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Sorting
@@ -238,6 +239,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0016-3sum-closest](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0088-merge-sorted-array) |
+| [3169-count-days-without-meetings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3169-count-days-without-meetings) |
 ## Greedy
 |  |
 | ------- |
