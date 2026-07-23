@@ -1,23 +1,22 @@
 class Solution {
     public ListNode removeElements(ListNode head, int val) {
 
-        // Remove matching nodes from the beginning
-        while (head != null && head.val == val) {
-            head = head.next;
-        }
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
 
-        ListNode current = head;
+        ListNode current = dummy;
 
-        // Remove matching nodes from the remaining list
-        while (current != null && current.next != null) {
+        while (current.next != null) {
 
             if (current.next.val == val) {
+                // Skip the node containing val
                 current.next = current.next.next;
             } else {
+                // Move forward only when no deletion happens
                 current = current.next;
             }
         }
 
-        return head;
+        return dummy.next;
     }
 }
