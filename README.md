@@ -166,6 +166,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0203-remove-linked-list-elements](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0203-remove-linked-list-elements) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
@@ -270,6 +271,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0010-regular-expression-matching) |
+| [0203-remove-linked-list-elements](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Graph Theory
 |  |
 | ------- |
