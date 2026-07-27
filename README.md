@@ -220,6 +220,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0016-3sum-closest](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0036-valid-sudoku) |
 | [0056-merge-intervals](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -317,6 +318,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0729-my-calendar-i](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
