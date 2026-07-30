@@ -201,6 +201,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0031-next-permutation) |
@@ -219,6 +220,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0031-next-permutation) |
@@ -249,6 +251,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0088-merge-sorted-array) |
