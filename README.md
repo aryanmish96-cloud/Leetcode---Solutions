@@ -265,6 +265,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0134-gas-station) |
+| [1405-longest-happy-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1405-longest-happy-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -280,6 +281,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0006-zigzag-conversion](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0010-regular-expression-matching) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1405-longest-happy-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1405-longest-happy-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -301,6 +303,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0239-sliding-window-maximum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0295-find-median-from-data-stream) |
 | [1046-last-stone-weight](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1046-last-stone-weight) |
+| [1405-longest-happy-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1405-longest-happy-string) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
