@@ -249,6 +249,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [1095-find-in-mountain-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1095-find-in-mountain-array) |
 | [1288-remove-covered-intervals](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2454-next-greater-element-iv](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2454-next-greater-element-iv) |
 | [3169-count-days-without-meetings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3169-count-days-without-meetings) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -332,6 +333,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0239-sliding-window-maximum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0904-fruit-into-baskets) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -340,6 +342,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0560-subarray-sum-equals-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0724-find-pivot-index) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Sweep Line
 |  |
 | ------- |
@@ -353,6 +356,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0729-my-calendar-i](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1095-find-in-mountain-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1095-find-in-mountain-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2454-next-greater-element-iv](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2454-next-greater-element-iv) |
 ## Design
 |  |
