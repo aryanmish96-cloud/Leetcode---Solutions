@@ -276,6 +276,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | ------- |
 | [0134-gas-station](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0134-gas-station) |
 | [1405-longest-happy-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1405-longest-happy-string) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -334,6 +335,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0523-continuous-subarray-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -368,6 +370,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0875-koko-eating-bananas](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1095-find-in-mountain-array) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2454-next-greater-element-iv](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2454-next-greater-element-iv) |
 ## Design
