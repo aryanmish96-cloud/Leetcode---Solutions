@@ -256,6 +256,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [1732-find-the-highest-altitude](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2402-meeting-rooms-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2454-next-greater-element-iv](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2454-next-greater-element-iv) |
 | [3169-count-days-without-meetings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3169-count-days-without-meetings) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -270,6 +271,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0295-find-median-from-data-stream](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0295-find-median-from-data-stream) |
 | [1288-remove-covered-intervals](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1288-remove-covered-intervals) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2402-meeting-rooms-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2454-next-greater-element-iv](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2454-next-greater-element-iv) |
 | [3169-count-days-without-meetings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3169-count-days-without-meetings) |
 ## Greedy
@@ -288,6 +290,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0560-subarray-sum-equals-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0904-fruit-into-baskets) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [2402-meeting-rooms-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2402-meeting-rooms-iii) |
 ## String
 |  |
 | ------- |
@@ -319,6 +322,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [1405-longest-happy-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1405-longest-happy-string) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2402-meeting-rooms-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2454-next-greater-element-iv](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2454-next-greater-element-iv) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -410,4 +414,8 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0295-find-median-from-data-stream) |
+## Simulation
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
