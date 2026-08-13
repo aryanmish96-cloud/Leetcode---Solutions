@@ -238,6 +238,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0134-gas-station](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0239-sliding-window-maximum) |
 | [0457-circular-array-loop](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0457-circular-array-loop) |
+| [0480-sliding-window-median](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0525-contiguous-array) |
@@ -295,6 +296,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | ------- |
 | [0036-valid-sudoku](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0036-valid-sudoku) |
 | [0457-circular-array-loop](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0457-circular-array-loop) |
+| [0480-sliding-window-median](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0480-sliding-window-median) |
 | [0523-continuous-subarray-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -332,6 +334,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0480-sliding-window-median](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1046-last-stone-weight) |
 | [1405-longest-happy-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1405-longest-happy-string) |
@@ -362,6 +365,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0480-sliding-window-median) |
 | [0713-subarray-product-less-than-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -444,4 +448,8 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0621-task-scheduler) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
