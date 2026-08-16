@@ -314,6 +314,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | ------- |
 | [0006-zigzag-conversion](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0010-regular-expression-matching) |
+| [0043-multiply-strings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0043-multiply-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1405-longest-happy-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1405-longest-happy-string) |
 | [1436-destination-city](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1436-destination-city) |
@@ -361,6 +362,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0043-multiply-strings) |
 | [0367-valid-perfect-square](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -445,6 +447,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0043-multiply-strings) |
 | [2402-meeting-rooms-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2402-meeting-rooms-iii) |
 ## Timsort
 |  |
