@@ -9,28 +9,33 @@
  * }
  */
 class Solution {
-    public ListNode mergeKLists(ListNode[] lists) {
+      public ListNode mergeKLists(ListNode[] lists) {
 
-    List<Integer> values = new ArrayList<>();
+    PriorityQueue<ListNode> pq =
+            new PriorityQueue<>((a, b) -> Integer.compare(a.val, b.val));
 
-    // Store all node values
+    // Add first node of every list
     for (ListNode head : lists) {
-        while (head != null) {
-            values.add(head.val);
-            head = head.next;
+        if (head != null) {
+            pq.offer(head);
         }
     }
 
-    // Sort all values
-    Collections.sort(values);
-
-    // Create merged linked list
     ListNode dummy = new ListNode(0);
     ListNode temp = dummy;
 
-    for (int value : values) {
-        temp.next = new ListNode(value);
+    while (!pq.isEmpty()) {
+
+        // Get smallest node
+        ListNode curr = pq.poll();
+
+        temp.next = curr;
         temp = temp.next;
+
+        // Add next node from same list
+        if (curr.next != null) {
+            pq.offer(curr.next);
+        }
     }
 
     return dummy.next;
