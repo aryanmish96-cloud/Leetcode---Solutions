@@ -240,6 +240,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0134-gas-station](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0239-sliding-window-maximum) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0457-circular-array-loop](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0457-circular-array-loop) |
 | [0480-sliding-window-median](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0480-sliding-window-median) |
@@ -354,6 +355,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0023-merge-k-sorted-lists](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0480-sliding-window-median](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0621-task-scheduler) |
