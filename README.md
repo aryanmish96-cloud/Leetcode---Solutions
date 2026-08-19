@@ -262,6 +262,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [1288-remove-covered-intervals](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1436-destination-city](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1436-destination-city) |
+| [1552-magnetic-force-between-two-balls](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1732-find-the-highest-altitude](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -285,6 +286,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0621-task-scheduler](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1288-remove-covered-intervals) |
+| [1552-magnetic-force-between-two-balls](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2402-meeting-rooms-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2418-sort-the-people](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2418-sort-the-people) |
@@ -420,6 +422,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0875-koko-eating-bananas](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1095-find-in-mountain-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2454-next-greater-element-iv](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2454-next-greater-element-iv) |
