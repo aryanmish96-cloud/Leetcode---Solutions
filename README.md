@@ -389,6 +389,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0633-sum-of-square-numbers](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sliding Window
 |  |
 | ------- |
