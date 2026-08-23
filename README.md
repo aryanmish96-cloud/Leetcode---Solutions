@@ -264,6 +264,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [1288-remove-covered-intervals](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1436-destination-city](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1436-destination-city) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1480-running-sum-of-1d-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1732-find-the-highest-altitude](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -365,6 +366,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0621-task-scheduler](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1046-last-stone-weight) |
 | [1405-longest-happy-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1405-longest-happy-string) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2402-meeting-rooms-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2402-meeting-rooms-iii) |
@@ -376,6 +378,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0036-valid-sudoku](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -432,6 +435,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0875-koko-eating-bananas](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1095-find-in-mountain-array) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1552-magnetic-force-between-two-balls](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
