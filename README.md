@@ -213,6 +213,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0457-circular-array-loop](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0457-circular-array-loop) |
 | [0633-sum-of-square-numbers](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0905-sort-array-by-parity) |
 | [0986-interval-list-intersections](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0986-interval-list-intersections) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -256,6 +257,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0875-koko-eating-bananas](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0905-sort-array-by-parity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -290,6 +292,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0389-find-the-difference](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0905-sort-array-by-parity) |
 | [1288-remove-covered-intervals](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
