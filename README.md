@@ -339,6 +339,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0043-multiply-strings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0043-multiply-strings) |
 | [0389-find-the-difference](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0389-find-the-difference) |
 | [0551-student-attendance-record-i](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0551-student-attendance-record-i) |
+| [0796-rotate-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1405-longest-happy-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1405-longest-happy-string) |
 | [1436-destination-city](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1436-destination-city) |
@@ -520,4 +521,8 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0509-fibonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
