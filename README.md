@@ -282,6 +282,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [3169-count-days-without-meetings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3169-count-days-without-meetings) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Sorting
 |  |
@@ -332,6 +333,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [2418-sort-the-people](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2418-sort-the-people) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
