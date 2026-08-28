@@ -342,6 +342,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0010-regular-expression-matching](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0389-find-the-difference) |
 | [0551-student-attendance-record-i](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0551-student-attendance-record-i) |
 | [0796-rotate-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0796-rotate-string) |
