@@ -343,6 +343,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0389-find-the-difference) |
 | [0551-student-attendance-record-i](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0551-student-attendance-record-i) |
 | [0796-rotate-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0796-rotate-string) |
@@ -404,6 +405,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0367-valid-perfect-square) |
@@ -499,6 +501,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0067-add-binary) |
 | [2402-meeting-rooms-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2402-meeting-rooms-iii) |
 ## Timsort
 |  |
@@ -527,6 +530,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0389-find-the-difference) |
 ## Memoization
 |  |
