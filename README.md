@@ -174,6 +174,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -182,6 +183,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -189,6 +191,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -198,6 +201,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
