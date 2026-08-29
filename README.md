@@ -355,6 +355,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0509-fibonacci-number) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
@@ -403,6 +404,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0043-multiply-strings) |
+| [0070-climbing-stairs](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -527,6 +529,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
