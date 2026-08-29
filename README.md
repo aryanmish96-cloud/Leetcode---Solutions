@@ -404,6 +404,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0043-multiply-strings) |
+| [0069-sqrtx](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0509-fibonacci-number) |
@@ -443,6 +444,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0367-valid-perfect-square](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -548,4 +550,8 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
