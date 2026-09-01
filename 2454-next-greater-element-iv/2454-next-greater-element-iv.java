@@ -1,32 +1,23 @@
-import java.util.*;
-
 class Solution {
     public int[] secondGreaterElement(int[] nums) {
-        int n = nums.length;
-        int[] ans = new int[n];
-        Arrays.fill(ans, -1);
-
-        Stack<Integer> st1 = new Stack<>();
-        Stack<Integer> st2 = new Stack<>();
-
-        for (int i = 0; i < n; i++) {
-            while (!st2.isEmpty() && nums[st2.peek()] < nums[i]) {
-                ans[st2.pop()] = nums[i];
+        int n=nums.length;
+        int[] ans=new int[nums.length];
+        Arrays.fill(ans,-1);
+        Stack<Integer> s1=new Stack<>();
+        Stack<Integer> s2=new Stack<>();
+        for(int i=0;i<n;i++){
+            while(!s2.isEmpty() && nums[s2.peek()]<nums[i]){
+                ans[s2.pop()]=nums[i];
             }
-
-            Stack<Integer> temp = new Stack<>();
-
-            while (!st1.isEmpty() && nums[st1.peek()] < nums[i]) {
-                temp.push(st1.pop());
+            Stack<Integer> temp =new Stack<>();
+            while(!s1.isEmpty() && nums[s1.peek()]<nums[i]){
+                temp.push(s1.pop());
             }
-
-            while (!temp.isEmpty()) {
-                st2.push(temp.pop());
+            while(!temp.isEmpty()){
+                s2.push(temp.pop());
             }
-
-            st1.push(i);
+            s1.push(i);
         }
-
         return ans;
     }
 }
