@@ -230,6 +230,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0735-asteroid-collision](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2454-next-greater-element-iv](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2454-next-greater-element-iv) |
@@ -265,6 +266,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0713-subarray-product-less-than-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0729-my-calendar-i) |
+| [0735-asteroid-collision](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0881-boats-to-save-people) |
@@ -511,6 +513,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | ------- |
 | [0043-multiply-strings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0735-asteroid-collision) |
 | [2402-meeting-rooms-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2402-meeting-rooms-iii) |
 ## Timsort
 |  |
