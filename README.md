@@ -231,6 +231,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0735-asteroid-collision](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2454-next-greater-element-iv](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2454-next-greater-element-iv) |
@@ -479,6 +480,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0729-my-calendar-i](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0729-my-calendar-i) |
+| [0901-online-stock-span](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0901-online-stock-span) |
 ## Segment Tree
 |  |
 | ------- |
@@ -495,6 +497,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0901-online-stock-span](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0901-online-stock-span) |
 | [2454-next-greater-element-iv](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2454-next-greater-element-iv) |
 ## Queue
 |  |
@@ -508,6 +511,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
