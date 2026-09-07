@@ -579,4 +579,8 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
