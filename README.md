@@ -246,6 +246,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0036-valid-sudoku](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0036-valid-sudoku) |
 | [0056-merge-intervals](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0088-merge-sorted-array) |
@@ -548,6 +549,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0389-find-the-difference) |
 ## Memoization
 |  |
@@ -583,4 +585,8 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0183-customers-who-never-order) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
