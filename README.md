@@ -379,6 +379,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0010-regular-expression-matching](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0326-power-of-three](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0509-fibonacci-number) |
 ## Graph Theory
 |  |
@@ -421,6 +422,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0067-add-binary](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0523-continuous-subarray-sum) |
