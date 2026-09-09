@@ -587,6 +587,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0183-customers-who-never-order) |
+| [0197-rising-temperature](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0584-find-customer-referee) |
 ## Backtracking
 |  |
