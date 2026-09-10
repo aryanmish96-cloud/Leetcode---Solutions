@@ -539,6 +539,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -552,6 +553,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | ------- |
 | [0067-add-binary](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0389-find-the-difference) |
 ## Memoization
 |  |
