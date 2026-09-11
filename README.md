@@ -217,6 +217,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0027-remove-element](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0295-find-median-from-data-stream) |
@@ -230,6 +231,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0735-asteroid-collision](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0901-online-stock-span) |
@@ -245,6 +247,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0031-next-permutation](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0078-subsets) |
@@ -373,6 +376,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | ------- |
 | [0010-regular-expression-matching](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0152-maximum-product-subarray) |
@@ -506,6 +510,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0901-online-stock-span](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0901-online-stock-span) |
 | [2454-next-greater-element-iv](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2454-next-greater-element-iv) |
