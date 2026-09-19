@@ -335,6 +335,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0389-find-the-difference) |
@@ -359,6 +360,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | ------- |
 | [0006-zigzag-conversion](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0043-multiply-strings) |
@@ -430,6 +432,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0069-sqrtx) |
