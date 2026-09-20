@@ -376,6 +376,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [1436-destination-city](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1436-destination-city) |
 | [2418-sort-the-people](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2418-sort-the-people) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -542,6 +543,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0412-fizz-buzz](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0735-asteroid-collision) |
 | [2402-meeting-rooms-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2402-meeting-rooms-iii) |
+| [3498-reverse-degree-of-a-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Timsort
 |  |
 | ------- |
