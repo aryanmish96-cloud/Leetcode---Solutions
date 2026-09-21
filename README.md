@@ -265,6 +265,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0457-circular-array-loop](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0457-circular-array-loop) |
 | [0480-sliding-window-median](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -386,6 +387,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0070-climbing-stairs](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0152-maximum-product-subarray) |
+| [0494-target-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0509-fibonacci-number) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Recursion
@@ -621,6 +623,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -645,4 +648,12 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0292-nim-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
