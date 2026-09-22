@@ -260,6 +260,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0152-maximum-product-subarray) |
+| [0216-combination-sum-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -628,6 +629,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0039-combination-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
