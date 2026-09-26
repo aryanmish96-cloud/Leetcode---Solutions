@@ -221,6 +221,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0392-is-subsequence) |
 | [0457-circular-array-loop](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0457-circular-array-loop) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -383,6 +384,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0058-length-of-last-word](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0412-fizz-buzz) |
 | [0551-student-attendance-record-i](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0551-student-attendance-record-i) |
@@ -402,6 +404,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0070-climbing-stairs](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0509-fibonacci-number) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
