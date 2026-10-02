@@ -385,6 +385,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0010-regular-expression-matching](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0043-multiply-strings) |
@@ -406,6 +407,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0070-climbing-stairs) |
@@ -656,6 +658,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0078-subsets) |
@@ -665,6 +668,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0032-longest-valid-parentheses) |
 ## Brainteaser
 |  |
