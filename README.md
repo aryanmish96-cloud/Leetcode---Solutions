@@ -182,6 +182,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -191,6 +192,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
@@ -201,6 +203,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
@@ -213,6 +216,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Two Pointers
 |  |
@@ -230,6 +234,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0457-circular-array-loop](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0457-circular-array-loop) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0881-boats-to-save-people](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0905-sort-array-by-parity) |
 | [0986-interval-list-intersections](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0986-interval-list-intersections) |
@@ -368,6 +373,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0532-k-diff-pairs-in-an-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0621-task-scheduler) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1436-destination-city](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1436-destination-city) |
@@ -640,6 +646,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Database
 |  |
 | ------- |
