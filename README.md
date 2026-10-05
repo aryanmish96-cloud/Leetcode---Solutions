@@ -249,6 +249,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0032-longest-valid-parentheses](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0678-valid-parenthesis-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -357,6 +358,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0134-gas-station](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0881-boats-to-save-people) |
 | [1405-longest-happy-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1405-longest-happy-string) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -405,6 +407,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0409-longest-palindrome](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0412-fizz-buzz) |
 | [0551-student-attendance-record-i](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0551-student-attendance-record-i) |
+| [0678-valid-parenthesis-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1405-longest-happy-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1405-longest-happy-string) |
@@ -425,6 +428,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0392-is-subsequence](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0678-valid-parenthesis-string) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Recursion
 |  |
@@ -681,6 +685,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | ------- |
 | [0022-generate-parentheses](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Brainteaser
 |  |
 | ------- |
