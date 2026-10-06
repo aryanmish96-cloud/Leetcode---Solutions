@@ -402,6 +402,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0043-multiply-strings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0067-add-binary) |
+| [0131-palindrome-partitioning](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0131-palindrome-partitioning) |
 | [0389-find-the-difference](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0409-longest-palindrome) |
@@ -424,6 +425,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0042-trapping-rain-water](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0494-target-sum) |
@@ -678,6 +680,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0040-combination-sum-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0494-target-sum) |
 ## Bracket Sequences
