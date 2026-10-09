@@ -682,6 +682,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0595-big-countries](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0619-biggest-single-number) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1084-sales-analysis-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1148-article-views-i) |
