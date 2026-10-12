@@ -693,6 +693,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1280-students-and-examinations) |
+| [1683-invalid-tweets](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1683-invalid-tweets) |
 ## Backtracking
 |  |
 | ------- |
