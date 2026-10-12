@@ -685,6 +685,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0577-employee-bonus](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0619-biggest-single-number) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
