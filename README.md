@@ -430,6 +430,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1405-longest-happy-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1405-longest-happy-string) |
 | [1436-destination-city](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1436-destination-city) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2418-sort-the-people](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2418-sort-the-people) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -510,6 +511,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0633-sum-of-square-numbers](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sliding Window
