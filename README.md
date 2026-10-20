@@ -347,6 +347,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Sorting
 |  |
@@ -372,6 +373,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2454-next-greater-element-iv](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2454-next-greater-element-iv) |
 | [3169-count-days-without-meetings](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3169-count-days-without-meetings) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
@@ -383,6 +385,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [1405-longest-happy-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1405-longest-happy-string) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
