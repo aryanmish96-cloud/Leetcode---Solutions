@@ -171,6 +171,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0203-remove-linked-list-elements) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
@@ -245,6 +246,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0295-find-median-from-data-stream](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0392-is-subsequence) |
 | [0457-circular-array-loop](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0457-circular-array-loop) |
@@ -395,6 +397,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0036-valid-sudoku](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0409-longest-palindrome) |
