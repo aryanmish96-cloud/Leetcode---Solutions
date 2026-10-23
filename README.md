@@ -353,6 +353,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Sorting
 |  |
