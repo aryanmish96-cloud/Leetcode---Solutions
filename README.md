@@ -342,6 +342,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2402-meeting-rooms-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2418-sort-the-people](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -413,6 +414,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1436-destination-city](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1436-destination-city) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2402-meeting-rooms-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2418-sort-the-people](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
