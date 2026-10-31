@@ -202,6 +202,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0199-binary-tree-right-side-view](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -214,6 +215,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -484,6 +486,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0547-number-of-provinces) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -783,4 +786,8 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0141-linked-list-cycle) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
