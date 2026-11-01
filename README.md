@@ -200,6 +200,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0547-number-of-provinces) |
@@ -216,6 +217,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -303,6 +305,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0217-contains-duplicate) |
@@ -517,6 +520,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0063-unique-paths-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -792,5 +796,6 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
