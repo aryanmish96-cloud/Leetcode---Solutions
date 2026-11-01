@@ -205,6 +205,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0547-number-of-provinces](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0841-keys-and-rooms](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0841-keys-and-rooms) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
@@ -218,6 +219,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0547-number-of-provinces](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0841-keys-and-rooms](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0841-keys-and-rooms) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
@@ -487,6 +489,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0547-number-of-provinces) |
+| [0841-keys-and-rooms](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0841-keys-and-rooms) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
 |  |
