@@ -801,4 +801,8 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | ------- |
 | [0200-number-of-islands](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0547-number-of-provinces) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
