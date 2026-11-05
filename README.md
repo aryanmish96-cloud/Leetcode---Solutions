@@ -347,6 +347,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [1732-find-the-highest-altitude](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -381,6 +382,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [1288-remove-covered-intervals](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2402-meeting-rooms-iii) |
@@ -656,6 +658,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0621-task-scheduler) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Treap
 |  |
 | ------- |
