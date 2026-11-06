@@ -270,6 +270,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0032-longest-valid-parentheses](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0735-asteroid-collision) |
@@ -298,6 +299,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0078-subsets](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -471,6 +473,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0063-unique-paths-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0152-maximum-product-subarray) |
@@ -522,6 +525,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0063-unique-paths-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
@@ -625,6 +629,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0085-maximal-rectangle) |
 | [0901-online-stock-span](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2454-next-greater-element-iv](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/2454-next-greater-element-iv) |
