@@ -222,6 +222,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0637-average-of-levels-in-binary-tree](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0841-keys-and-rooms](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0994-rotting-oranges) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
@@ -336,6 +337,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0907-sum-of-subarray-minimums](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1095-find-in-mountain-array) |
@@ -528,6 +530,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0085-maximal-rectangle](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0994-rotting-oranges) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
