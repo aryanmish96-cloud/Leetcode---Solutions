@@ -295,6 +295,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0039-combination-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0064-minimum-path-sum) |
@@ -401,6 +402,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0621-task-scheduler) |
@@ -475,6 +477,7 @@ If you found these patterns helpful for your interview prep, please leave a **St
 | [0022-generate-parentheses](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aryanmish96-cloud/Leetcode---Solutions/tree/master/0070-climbing-stairs) |
