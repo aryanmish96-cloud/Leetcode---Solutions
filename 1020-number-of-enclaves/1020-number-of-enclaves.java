@@ -1,77 +1,49 @@
-import java.util.*;
-
 class Solution {
-    static class Pair {
-        int row;
-        int col;
-
-        Pair(int row, int col) {
-            this.row = row;
-            this.col = col;
-        }
-    }
-
     public int numEnclaves(int[][] grid) {
         int rows = grid.length;
-        int columns = grid[0].length;
-        Queue<Pair> queue = new ArrayDeque<>();
+        int cols = grid[0].length;
 
-        // Add boundary land cells to the queue
-        for (int row = 0; row < rows; row++) {
-            for (int col = 0; col < columns; col++) {
-                boolean isBoundary =
-                    row == 0 || row == rows - 1 ||
-                    col == 0 || col == columns - 1;
+        // DFS from the left and right boundaries
+        for (int r = 0; r < rows; r++) {
+            dfs(grid, r, 0);
+            dfs(grid, r, cols - 1);
+        }
 
-                if (isBoundary && grid[row][col] == 1) {
-                    grid[row][col] = -1; // Mark as visited
-                    queue.add(new Pair(row, col));
+        // DFS from the top and bottom boundaries
+        for (int c = 0; c < cols; c++) {
+            dfs(grid, 0, c);
+            dfs(grid, rows - 1, c);
+        }
+
+        // Count land cells not reached from any boundary
+        int count = 0;
+        for (int r = 0; r < rows; r++) {
+            for (int c = 0; c < cols; c++) {
+                if (grid[r][c] == 1) {
+                    count++;
                 }
             }
         }
 
-        // BFS: visit all land connected to the boundary
-        while (!queue.isEmpty()) {
-            Pair current = queue.remove();
-            int row = current.row;
-            int col = current.col;
+        return count;
+    }
 
-            // Left
-            if (col - 1 >= 0 && grid[row][col - 1] == 1) {
-                grid[row][col - 1] = -1;
-                queue.add(new Pair(row, col - 1));
-            }
+    private void dfs(int[][] grid, int r, int c) {
+        int rows = grid.length;
+        int cols = grid[0].length;
 
-            // Right
-            if (col + 1 < columns && grid[row][col + 1] == 1) {
-                grid[row][col + 1] = -1;
-                queue.add(new Pair(row, col + 1));
-            }
-
-            // Up
-            if (row - 1 >= 0 && grid[row - 1][col] == 1) {
-                grid[row - 1][col] = -1;
-                queue.add(new Pair(row - 1, col));
-            }
-
-            // Down
-            if (row + 1 < rows && grid[row + 1][col] == 1) {
-                grid[row + 1][col] = -1;
-                queue.add(new Pair(row + 1, col));
-            }
+        // Stop if outside the grid or not unvisited land
+        if (r < 0 || r >= rows || c < 0 || c >= cols ||
+            grid[r][c] != 1) {
+            return;
         }
 
-        // Count land cells not connected to the boundary
-        int enclaveCount = 0;
+        grid[r][c] = -1; // mark as visited
 
-        for (int row = 0; row < rows; row++) {
-            for (int col = 0; col < columns; col++) {
-                if (grid[row][col] == 1) {
-                    enclaveCount++;
-                }
-            }
-        }
-
-        return enclaveCount;
+        // Visit the four neighbouring cells
+        dfs(grid, r - 1, c); // up
+        dfs(grid, r + 1, c); // down
+        dfs(grid, r, c - 1); // left
+        dfs(grid, r, c + 1); // right
     }
 }
